@@ -1,3 +1,42 @@
 # project-pertama
 Website permulaan
 <html>Hello word</html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Website Saya</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+        <!-- NAVIGATION BAR -->
+        <div class="container-navbar">
+            <ul class="ul-navbar">
+                <li class="li-navbar">
+                    <a href="#" class="a-navbar">HOME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="about.html" class="a-navbar">ABOUT ME</a>
+                </li>
+                <li class="li-navbar">
+                    <a href="contact.html" class="a-navbar">CONTACT ME</a>
+                </li>
+            </ul>
+        </div>
+        <!-- NAVIGATION BAR SELESAI -->
+
+        <!-- CONTENT 1 -->
+        <div class="container-content">
+            <a href="https://youtube.com"
+            class="a-content">
+            <img src="youtube.png" class="img-content"/>
+            <p>Lest go to Youtube</p>
+            </a>
+        </div>
+        <!-- CONTENT SELESAI -->
+        
+        <!-- FOOTER -->
+        <div class="a-footer">
+            <a class="a-footer">WEBSITE INI DIBUAT DENGAN SEPENUH HATI</a>
+        </div>
+        <!-- FOOTER SELESAI -->
