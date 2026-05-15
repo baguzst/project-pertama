@@ -82,8 +82,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
     width: 320px;
     height: 210px;
+}
+
+.p-content {
+    text-decoration: none;
+    color: white;
 }
 
 .a-footer {
