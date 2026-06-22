@@ -44,10 +44,11 @@
 }
 
 .container-introduce {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   height : 10vh;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 10vh;
 }
 
 .li-introduce {
